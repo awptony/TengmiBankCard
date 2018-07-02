@@ -5,8 +5,10 @@ allprojects {
 			maven { url 'https://jitpack.io' }
 		}
 	}
+
 setop 2
 dependencies {
-		implementation 'com.github.User:Repo:Tag'
+		compile 'com.github.awptony:tengmiBankcard:v1.0.0'
 }
+
 that's all.
